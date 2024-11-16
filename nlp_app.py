@@ -100,7 +100,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title and Introduction
-st.title("📄 Advanced Document Summarizer")
+st.title("📄 Document Summarizer")
 st.markdown("""
 Welcome to the **Advanced Document Summarizer**! Before you begin, learn about our summarization methods:
 """)
